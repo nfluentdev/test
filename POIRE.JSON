@@ -1,0 +1,51 @@
+{
+"attributes": [
+{
+"trait_type": "Pass festival",
+"value": "pour une (1) personne"
+},
+{
+"trait_type": "durée de validité",
+"value": "1 an"
+},
+{
+"trait_type": "nombre de Pass2022",
+"value": "1"
+},
+{
+"trait_type": "avantage1",
+"value": "1 affiche numérotée (quelques unes seront signées au hasard)"
+}
+],
+"description": "NFluenT - Collection de Pass NFT pour Music.",
+"external_url": "",
+"image": "https://bafybeihxn2xclrl5e72t2kzrrne5iknmhozzdwjerftcmlutjleauuoudm.ipfs.nftstorage.link?ext=png",
+"seller_fee_basis_points":1000,
+ "name": "NFluenTest2 #02/10",
+"properties": {
+"category": "video",
+"creators": [
+{
+"address": "BjW8USn6XpyCW5dg95bNKey5XZ6KWaTox1nPDFYr4fdc",
+"share": 90,
+"verified": 0
+},
+{
+"address": "DKS7of5db3NoYWyGLqzvqs3UaN1nPEannsZ8Mo85B7jk",
+"share": 10,
+"verified": 0
+}
+],
+"files": [
+{
+"type": "video/mp4",
+"uri": "https://bafybeih63vpvx4pcicptl7aqzvqbszddlbja6ywvno7uzjhevnyg6it45u.ipfs.nftstorage.link?ext=mp4"
+},
+{
+"type": "image/png",
+"uri": "https://bafybeiazwrlt2c6qq7shg7h2fiav6425vvj5qmdo5tgwgjyv32iyqjx3bm.ipfs.nftstorage.link?ext=png"
+}
+]
+},
+"symbol": "NFTBRN22"
+}
